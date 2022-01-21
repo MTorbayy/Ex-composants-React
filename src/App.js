@@ -6,9 +6,9 @@ import Navbar from "./Components/Navbar/Navbar"
 function App() {
   return (
     <>
-     <Modal />
+     {/* <Modal /> */}
      {/* <Accord /> */}
-     {/* <Navbar /> */}
+     <Navbar />
     </>
   );
 }
